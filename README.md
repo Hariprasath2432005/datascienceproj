@@ -1,7 +1,7 @@
 # 📊 Data Science Projects — Complete ML/DL Collection
 
 A comprehensive collection of Data Science and Machine Learning projects covering EDA, 
-supervised learning, clustering, and deep learning techniques.
+supervised learning, unsupervised learning, clustering, and deep learning techniques.
 
 ## 📁 Projects Included
 
@@ -13,7 +13,13 @@ supervised learning, clustering, and deep learning techniques.
 | `NB.ipynb` | Naive Bayes Classification |
 | `SUPERVISEDLEARNING.ipynb` | Supervised Learning algorithms |
 | `SVM.ipynb` | Support Vector Machine |
+| `linear.ipynb` | Linear Regression |
 | `assignment2_lodistic.ipynb` | Logistic Regression |
+| `assignment3.ipynb` | Classification Assignment |
+| `assignment4WITHSMOTE.ipynb` | SMOTE for imbalanced data handling |
+| `assignment5WITHoutlaier.ipynb` | Outlier detection & removal |
+| `unsupervisedlearningproject.ipynb` | Unsupervised Learning Project |
+| `unsupervisedlearningproject2.ipynb` | Unsupervised Learning Project 2 |
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,10 +32,13 @@ supervised learning, clustering, and deep learning techniques.
 ## 🧠 Topics Covered
 - ✅ Exploratory Data Analysis (EDA)
 - ✅ Supervised Learning
+- ✅ Unsupervised Learning
 - ✅ Support Vector Machine (SVM)
 - ✅ Naive Bayes
-- ✅ Logistic Regression
+- ✅ Logistic & Linear Regression
 - ✅ Clustering
+- ✅ SMOTE — Imbalanced Data Handling
+- ✅ Outlier Detection & Removal
 - ✅ CNN & Deep Learning
 
 ## 🚀 How to Run
